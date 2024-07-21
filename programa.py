@@ -13,4 +13,7 @@ def multiplica(x,y):
 def divide(x,y):
     return x/y
 
+def eleva(x,y):
+    return x**y
+
 print(soma(a,b))
