@@ -1,7 +1,7 @@
 a = 5
 b = 3
 
-def soma(x,y):
+def adiciona(x,y):
     return x+y
 
 def subtrai(x,y):
@@ -16,4 +16,5 @@ def divide(x,y):
 def eleva(x,y):
     return x**y
 
-print(soma(a,b))
+print(adiciona(a,b))
+
